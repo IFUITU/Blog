@@ -1,2 +1,2 @@
-gmail='ifuitu@gmail.com'
-pswrd="dopxaiysasphhtel"
+gmail='Examples@gmail.com'
+pswrd="31231231232133213"
