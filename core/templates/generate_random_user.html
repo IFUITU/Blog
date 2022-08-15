@@ -1,0 +1,13 @@
+{%extends 'base.html'%}
+{%block content%}
+    <h1>Djngo Celery Example</h1>
+    
+    <form action="" method="post">
+        {%csrf_token%}
+        {{form.as_table}}
+        <button type="submit">Submit</button>
+    </form>
+    <hr>
+   
+{%endblock%}
+

@@ -1,0 +1,11 @@
+{%extends 'base.html'%}
+
+{%block content%}
+    <h1>USER LIST</h1>
+    <hr>
+    <p>
+        {%for user in users%}
+            User list:{{user.username}}//{{user.email}}//<br>
+        {%endfor%}
+    </p>
+{%endblock%}
