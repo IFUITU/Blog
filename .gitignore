@@ -137,4 +137,4 @@ GitHub.sublime-settings
 .history
 
 #What to remove
-./client/pswrd.py
+pswrd.py
